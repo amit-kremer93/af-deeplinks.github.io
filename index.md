@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Amit's DeepLinks page
 
 You can use the [editor on GitHub](https://github.com/amit-kremer93/af-deeplinks.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
